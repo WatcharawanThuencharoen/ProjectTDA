@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GFX
+  - Obstacle
+  - Item
+  - Goblin
+  - PlayerItemCheck
+  - Slime
+  - Minotaur
+  - Arrow
+  - Dummy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - EnemyGFX
+  - Player
+  - Obstacle
+  - ATKCheck
+  - Enemy
+  - PlayerGFX
+  - ObstacleRock
+  - Destroyable
+  - Arrow
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 111966227
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DoorEffect
+    uniqueID: 2950032521
+    locked: 0
+  - name: Door
+    uniqueID: 2729848531
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3390860643
+    locked: 0
+  - name: Enemy
+    uniqueID: 80415533
+    locked: 0
+  - name: Player
+    uniqueID: 4071195337
+    locked: 0
+  - name: UI
+    uniqueID: 1534160983
+    locked: 0
